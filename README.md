@@ -3,7 +3,7 @@ Análise da demanda de atendimentos da Clínica Médica de uma Unidade de Pronto
 O trabalho foi desenvolvido em um Jupyter Notebook (`demanda.ipynb`) e serve como um estudo de caso prático para aplicação de técnicas de análise de dados com Python e Pandas.
 ## Objetivo da Análise
 O principal objetivo é responder à seguinte pergunta:
-&gt; Qual seria o impacto na carga de trabalho dos médicos se a equipe do turno diurno fosse reduzida de 4 para 3 clínicos gerais?
+> Qual seria o impacto na carga de trabalho dos médicos se a equipe do turno diurno fosse reduzida de 4 para 3 clínicos gerais?
 ## Estrutura do Repositório
 ```
 /
