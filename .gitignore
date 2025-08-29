@@ -1,0 +1,27 @@
+
+# macOS
+.DS_Store
+
+# Virtual Environments
+venv_asimov1/
+/Python para Usuários de Excel/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignored files
+atendimentos_por_hora.csv
+cenarios_dimensionamento.png
+CLAUDE.md
+clinica_medica_completo.csv
+frequencias_janeiro.ipynb
+ignorar.txt
+julho_parcial25.xlsx
+relatorio_executivo_clinica_medica.csv
+resumo_chefe.md
+resumo_pessoal.md
+resumo_por_turno.csv
+VSM_Fluxos_UPA.xlsx
+
+# Ignored directories
+prints/
