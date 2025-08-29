@@ -1,0 +1,12 @@
+Métrica,Valor
+Período analisado,241 dias
+Total de atendimentos clínica médica,"64,419"
+Média de atendimentos por dia,267.3
+Demanda turno diurno (7h-19h),202.2
+Demanda turno noturno (19h-7h),65.1
+Clínicos disponíveis diurno,5
+Clínicos disponíveis noturno,4
+Carga por clínico diurno,40.4 pac/clínico/turno
+Carga por clínico noturno,16.3 pac/clínico/turno
+Percentual diurno vs total,75.6%
+Percentual noturno vs total,24.4%
