@@ -18,7 +18,7 @@ A tabela compara a média de pacientes por médico em cada cenário.
 | **Diurno** | **49,0** pacientes/médico | **65,4** pacientes/médico | **\+16,3** pacientes por médico | **\+33,3%** |
 | **Noturno** | **20,6** pacientes/médico | **20,6** pacientes/médico |  |  |
 
-### **4\. Fatores a considerar**
+### **3\. Fatores a considerar**
 
 * **Picos de Demanda:** é sempre diurno  
 * **Tempo Produtivo Estimado:** 80% do turno (pausas, escrever no prontuário, refeições, pacientes mais complexos);  não é plausível trabalhar ininterruptamente durante 12h.  
